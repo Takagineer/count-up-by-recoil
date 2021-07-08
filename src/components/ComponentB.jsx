@@ -1,6 +1,6 @@
 import React from 'react'
 
-function ComnponentB() {
+function ComponentB() {
   return (
     <div>
       <p>コンポーネントBですよ</p>
@@ -8,4 +8,4 @@ function ComnponentB() {
   )
 }
 
-export default ComnponentB
+export default ComponentB
